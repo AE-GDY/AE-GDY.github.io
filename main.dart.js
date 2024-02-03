@@ -88610,9 +88610,7 @@ break
 case 2:h.ac(new A.amX(h))
 s=3
 break
-case 4:o=t.X
-A.na(q.b,"/event-signup-success",o,o)
-o=t.f7,f=0
+case 4:o=t.f7,f=0
 case 5:if(!(f<$.jg.length)){s=6
 break}s=$.oi[f]==="Text"?7:9
 break
@@ -88670,6 +88668,8 @@ case 12:case 8:++f
 s=5
 break
 case 6:$.aud=0
+h=t.X
+A.na(q.b,"/event-signup-success",h,h)
 case 3:return A.D(null,r)}})
 return A.E($async$$0,r)},
 $S:17}
