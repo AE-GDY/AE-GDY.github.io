@@ -1,6 +1,6 @@
 {
-    "name": "user_signup_es",
-    "short_name": "user_signup_es",
+    "name": "athlete_factory",
+    "short_name": "athlete_factory",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
