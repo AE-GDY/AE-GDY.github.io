@@ -1,6 +1,6 @@
 {
-    "name": "athlete_factory",
-    "short_name": "athlete_factory",
+    "name": "af_admin",
+    "short_name": "af_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
