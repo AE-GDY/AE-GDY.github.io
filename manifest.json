@@ -1,6 +1,6 @@
 {
-    "name": "af_admin",
-    "short_name": "af_admin",
+    "name": "derma_user_app",
+    "short_name": "derma_user_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
