@@ -47405,7 +47405,7 @@ A.arX.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=t.w
 if(B.f.ce(b,2)!==0){m=A.aB(a,n,m).w
 s=$.I9()[b]
-r=s.a.a.length/30
+r=s.a.a.length/25
 r=r<1?55:55*r
 q=$.a_Z()
 p=A.df(20)
@@ -47414,7 +47414,7 @@ return A.aJ(n,A.lI(A.a([A.aD4(new A.em(new A.aI(0,m.a.a*0.7,0,1/0),A.aJ(n,A.cu(A
 r=A.cu(A.du(A.a([A.a1X(n,A.dx(B.Fh,n,n,n),25),A.aD(n,5,n),A.az("Clara",n,n,n,A.am(n,n,n,n,n,n,n,n,n,n,n,n,n,n,B.L,n,n,!0,n,n,n,n,n,n,n,n),n,n)],s),B.a1,B.bk,B.T),n,n)
 m=A.aB(a,n,m).w
 q=$.I9()[b]
-p=q.a.a.length/30
+p=q.a.a.length/25
 p=p<1?55:55*p
 o=A.df(20)
 return A.aJ(n,A.lI(A.a([r,A.aD4(new A.em(new A.aI(0,m.a.a*0.7,0,1/0),A.aJ(n,A.cu(A.ays(!0,B.cb,!1,n,!0,B.a0,n,A.aIP(),q,n,n,n,n,2,A.zQ(n,B.ck,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.ag,!0,n,!0,!1,!1,n,n,n,n,n,n,n,10,1,n,!1,"\u2022",n,n,n,n,n,n,!1,n,!0,n,B.d1,n,n,B.cl,B.bM,n,n,n,n,n,A.am(n,n,B.l,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.bp,n,B.kh,n,n,n,n),n,n),B.j,n,n,new A.bz(B.cZ,n,n,o,n,n,B.J),n,p,new A.ao(20,0,0,10),new A.ao(20,0,20,10),n,n,n),n))],s),B.a1,B.aw,B.T),B.j,n,n,n,n,n,new A.ao(0,0,0,10),n,n,n,n)}},
