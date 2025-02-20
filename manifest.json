@@ -1,6 +1,6 @@
 {
-    "name": "stock_mind",
-    "short_name": "stock_mind",
+    "name": "blaze",
+    "short_name": "blaze",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
