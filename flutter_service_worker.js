@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "9a01b7891113cdad253b72fbb36972f3",
-"assets/AssetManifest.bin.json": "52e052a66847b601117b43b4f602607f",
-"assets/AssetManifest.json": "8092471e40975180dfc09822c01e15c2",
+const RESOURCES = {"assets/AssetManifest.bin": "d4c1121e4688b8664c0e8197c05dba0b",
+"assets/AssetManifest.bin.json": "fdd03f6fbe7e0c2d7b691e0ab750652d",
+"assets/AssetManifest.json": "3e20db343ba084154d4f3cccbd1ce67b",
 "assets/assets/images/A.png": "f871f816d6f1a8d4e6cb6b61525b9b9b",
 "assets/assets/images/AAPL.png": "e1549c0298263996ad8e3cad26d03147",
 "assets/assets/images/ABBV.png": "241d75d20d2a0d6b64250ca9a714a8e4",
@@ -69,8 +69,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a01b7891113cdad253b72fbb36972f3
 "assets/assets/images/BK.png": "2d9b39e208bd63b01a56d5ea2c3ca403",
 "assets/assets/images/BKNG.png": "50042837e1e8a308eb48ddf71f56364e",
 "assets/assets/images/BKR.png": "c5ddeae284d8dcc39e780df1957a8e2e",
-"assets/assets/images/Blaze%2520Blue.png": "a8ff9bcac7923eefd463a26fdc30802d",
-"assets/assets/images/Blaze%2520Deep%2520Blue%2520Cropped.PNG": "67424f95fcbf99cfe4d59546a6fe6f33",
+"assets/assets/images/Blaze%2520Deep%2520Blue%2520Cropped.png": "6955afc0105bf578c345b14e9eebc16d",
 "assets/assets/images/Blaze%2520Deep%2520Blue.png": "02728d238799c671beb85b494df7c1fb",
 "assets/assets/images/BLDR.png": "70aeae7f43b40554c93e40a410428b35",
 "assets/assets/images/BMY.png": "0bdadf9fa7323b5f35ae1dbd31f33758",
@@ -238,9 +237,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a01b7891113cdad253b72fbb36972f3
 "assets/assets/images/HII.png": "9bf5e562bedf01783e8c4c7ea2fc5157",
 "assets/assets/images/HLT.png": "b17ed3e5ce1e197d9027e77f8eaed232",
 "assets/assets/images/HOLX.png": "1791cc9d952a216bf9810d79ac104254",
-"assets/assets/images/home1.jpeg": "5bd56f231624c77f476a44f42d88bacb",
-"assets/assets/images/home1.jpg": "a3870ee38388391e247589a9326405a7",
-"assets/assets/images/home2.jpg": "03b5a7470dbc05a0bb20f50f3098dcf8",
 "assets/assets/images/HON.png": "040d6a2896a5e168b24b808f25b43542",
 "assets/assets/images/HPE.png": "a7c174d9db7d334b972edcc0564f1a07",
 "assets/assets/images/HPQ.png": "5f2527f744d4e368b4a8766d6d5b992c",
@@ -488,7 +484,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a01b7891113cdad253b72fbb36972f3
 "assets/assets/images/USB.png": "0b3d1c65ac9900df03cf7a3403a9c8b1",
 "assets/assets/images/V.png": "a09a4a274bdbfbb80513238b50246b75",
 "assets/assets/images/VICI.png": "5ad47233b0df9a03a5e86acf3695bedd",
-"assets/assets/images/view_portfolio.png": "991209d1bd6bb4b7dec6f931f439022e",
 "assets/assets/images/VLO.png": "13d473e9fbff8f53583a0fb58a534353",
 "assets/assets/images/VMC.png": "c407cff420e63ded01d3e3a61fdad153",
 "assets/assets/images/VRSK.png": "b67b6ca2ad895cdd3bb7c55235c77d27",
@@ -539,16 +534,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "9a01b7891113cdad253b72fbb36972f3
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "7fe2858b62ff4b3a44c4ea795ec50232",
+"flutter_bootstrap.js": "6d0ac9d97b34c61aa8797a4c3e5b44af",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9f494c6fbf2c9804bc6d9dbee4686b43",
-"/": "9f494c6fbf2c9804bc6d9dbee4686b43",
-"main.dart.js": "f104c405904e8c29b3fe48ddf02a9fcd",
-"manifest.json": "778942eb48f8ea7e52024a69af5b611a",
-"version.json": "955f452e8bee0df3d41b77b3ff670c4a"};
+"index.html": "f04ceb5279ce7cfcbf1416b7d49e386a",
+"/": "f04ceb5279ce7cfcbf1416b7d49e386a",
+"main.dart.js": "b1d0370af9e02eda21379bc9292fb490",
+"manifest.json": "389f441094adfe82b363069736f8d3cb",
+"version.json": "0faadf16b8574b0c6cda96fb0a265593"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
