@@ -49179,7 +49179,7 @@ A.OC.prototype={
 J(a){var s,r=null,q=A.aWo(A.ai(a).p2)
 q=A.wP(B.aa,A.aT5(B.aa,$.by()),q,!0)
 s=A.wP(B.aa,r,r,r)
-return new A.BH(A.e(["/",new A.ag7(),"/investment_goals",new A.ag8(),"/investment_duration",new A.ag9(),"/initial_capital",new A.agk(),"/risk_assessment",new A.agn(),"/investment_return",new A.ago(),"/total_liabilities",new A.agp(),"/acknowledgments",new A.agq(),"/rebalancing_interests",new A.agr(),"/generating_portfolio",new A.ags(),"/view_portfolio",new A.agt(),"/login",new A.aga(),"/forgot_password",new A.agb(),"/signup",new A.agc(),"/user_home",new A.agd(),"/about",new A.age(),"/profile",new A.agf(),"/complete_profile",new A.agg(),"/view_saved_portfolio",new A.agh(),"/view_portfolios",new A.agi(),"/stock_data_view",new A.agj(),"/selected_stock_view",new A.agl(),"/talk_to_advisor",new A.agm()],t.N,t.Ab),"/","Flutter Demo",q,s,B.Uw,!1,r)}}
+return new A.BH(A.e(["/",new A.ag7(),"/investment_goals",new A.ag8(),"/investment_duration",new A.ag9(),"/initial_capital",new A.agk(),"/risk_assessment",new A.agn(),"/investment_return",new A.ago(),"/total_liabilities",new A.agp(),"/acknowledgments",new A.agq(),"/rebalancing_interests",new A.agr(),"/generating_portfolio",new A.ags(),"/view_portfolio",new A.agt(),"/login",new A.aga(),"/forgot_password",new A.agb(),"/signup",new A.agc(),"/user_home",new A.agd(),"/about",new A.age(),"/profile",new A.agf(),"/complete_profile",new A.agg(),"/view_saved_portfolio",new A.agh(),"/view_portfolios",new A.agi(),"/stock_data_view",new A.agj(),"/selected_stock_view",new A.agl(),"/talk_to_advisor",new A.agm()],t.N,t.Ab),"/","Blaze",q,s,B.Uw,!1,r)}}
 A.ag7.prototype={
 $1(a){return B.FK},
 $S:310}
