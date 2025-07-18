@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "957ab2e164c5e6904003b82194e6d522",
-"assets/AssetManifest.bin.json": "ff56ab10f281409a0856087f1b623c11",
-"assets/AssetManifest.json": "24532c8d152a33a66d534a62ba65c254",
+const RESOURCES = {"assets/AssetManifest.bin": "f5ec6754a6a275a5c3e2bc76553486a2",
+"assets/AssetManifest.bin.json": "626f3adad8d8c596d8455d15a89d1798",
+"assets/AssetManifest.json": "6184ea132ae11bae57bcd5feeb6be722",
 "assets/assets/auc.png": "78e7c4c2348239ace5ac93812e202f61",
 "assets/assets/Blaze%2520Colored%2520Combo%2520Cropped.PNG": "b44747661396771048a7fdab40c26a08",
 "assets/assets/Blaze%2520Colored%2520Combo.png": "369ededda5f0a3404948a2ae03c80390",
@@ -31,6 +31,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "957ab2e164c5e6904003b82194e6d522
 "assets/assets/chatbot_logo_updated.jpg": "c45525f5ceb1cf0a12ea62fdfbfb5c59",
 "assets/assets/chatbot_mockup.png": "185af547852e26b5d8629301a9facbc7",
 "assets/assets/chatbot_mockup_1.png": "52ffa8eb290f559c07a977542a74ca5e",
+"assets/assets/chatbot_updated_2.png": "77076ec4c1741cec3a021f7044871c9c",
 "assets/assets/create_playlist_mockup.png": "1b642d46de7c45164d8988fa0094b24f",
 "assets/assets/execution_mockup_1.png": "8e9838b432ee5f8d5ad8233a59645c7e",
 "assets/assets/fblogowhite.png": "688e3c62ff8f716eea2229af76b6bea5",
@@ -100,14 +101,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "957ab2e164c5e6904003b82194e6d522
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.ico": "2a6cbf3d6d216b1f026a4b9b81fdf557",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "84d28d72916b35bf3e5030bc41e37903",
+"flutter_bootstrap.js": "1101a60d2ad6c6e6c06def087cf622f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "892e025524ebf0f79217356231420b9f",
-"/": "892e025524ebf0f79217356231420b9f",
-"main.dart.js": "838b782e909b4306033485a932ca3536",
+"index.html": "84dadeb3e64db3b90b4d4d0a7c3018e2",
+"/": "84dadeb3e64db3b90b4d4d0a7c3018e2",
+"main.dart.js": "1cd6fc4a7ac5e848e2edcd4dc113e8e1",
 "manifest.json": "389f441094adfe82b363069736f8d3cb",
 "version.json": "0faadf16b8574b0c6cda96fb0a265593"};
 // The application shell files that are downloaded before a service worker can
