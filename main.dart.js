@@ -42452,7 +42452,7 @@ l=c.Wc()
 k=c.c
 k.toString
 j=t.p
-p=A.A(b,A.A(b,A.bu(A.a([m,l,A.A(b,A.a3("WHY INVEST ON BLAZE",b,b,b,A.c7().$4$color$fontSize$fontWeight$height(B.f,A.u(k,b,a2).w.a.a*0.038+14,B.y,1),b,b),B.e,b,b,b,b,b,b,new A.U(0,100,0,50),b,b,b,b),A.bv(A.a([c.uH(!0,"assets/images/why_blaze_1.svg","One App. All-In-One Journey",u.a),c.uH(!0,"assets/images/why_blaze_2.svg","Fast Setup, Instant Funding","Open your account and start investing the same day."),c.uH(!1,"assets/images/blazebot.png","Live Blaze AI\nInsights",u.M)],j),B.o,B.bf,B.n)],j),B.o,B.a8,B.n),B.e,b,b,b,b,b,b,new A.U(40,0,40,100),b,b,b,b),B.e,b,b,new A.bh(b,b,b,b,b,new A.iA(B.e5,B.e4,B.b0,o,n,b),B.D),b,b,q,b,b,b,b,p.a.a)
+p=A.A(b,A.A(b,A.bu(A.a([m,l,A.A(b,A.a3("WHY INVEST ON BLAZE",b,b,b,A.c7().$4$color$fontSize$fontWeight$height(B.f,A.u(k,b,a2).w.a.a*0.038+14,B.y,1),b,b),B.e,b,b,b,b,b,b,new A.U(0,100,0,50),b,b,b,b),A.bv(A.a([c.uH(!0,"assets/images/why_blaze_1.svg","One App. All-In-One Journey",u.a),c.uH(!0,"assets/images/why_blaze_2.svg","Fast Setup, Instant Funding","Open your account and start investing the same day."),c.uH(!1,"assets/images/blazebotnew.png","Live Blaze AI\nInsights",u.M)],j),B.o,B.bf,B.n)],j),B.o,B.a8,B.n),B.e,b,b,b,b,b,b,new A.U(40,0,40,100),b,b,b,b),B.e,b,b,new A.bh(b,b,b,b,b,new A.iA(B.e5,B.e4,B.b0,o,n,b),B.D),b,b,q,b,b,b,b,p.a.a)
 q=c.amk()
 n=$.azx()
 o=c.c
@@ -42529,7 +42529,7 @@ p=A.A(c,A.a3("AI That knows how you invest".toUpperCase(),c,c,c,A.c7().$4$color$
 o=A.a5(c,5,c)
 n=A.A(c,A.a3("Trade smarter, learn faster, and grow your playlist, all with a personalized AI copilot guiding you every step of the way.",c,c,c,A.aI(c,c,B.f,c,c,c,c,c,c,c,c,15,c,c,B.p,c,c,!0,c,c,c,c,c,c,c,c),B.Z,c),B.e,c,c,c,c,c,c,new A.U(20,0,20,0),c,c,c,c)
 m=A.a5(c,40,c)
-l=A.bQ("assets/images/blazebot.png",c,c,c,70)
+l=A.bQ("assets/images/blazebotnew.png",c,c,c,70)
 k=A.a5(c,c,5)
 j=A.cN(0,300,0)
 i=d.c
@@ -42557,7 +42557,7 @@ o=A.a5(b,5,b)
 n=A.A(b,A.a3("Trade smarter, learn faster, and grow your playlist",b,b,b,A.aI(b,b,B.f,b,b,b,b,b,b,b,b,18,b,b,B.p,b,b,!0,b,b,b,b,b,b,b,b),b,b),B.e,b,b,b,b,b,b,new A.U(5,0,0,0),b,b,b,b)
 m=A.A(b,A.a3("All with a personalized AI copilot guiding you every step of the way.",b,b,b,A.aI(b,b,B.f,b,b,b,b,b,b,b,b,18,b,b,B.p,b,b,!0,b,b,b,b,b,b,b,b),b,b),B.e,b,b,b,b,b,b,new A.U(5,0,0,0),b,b,b,b)
 l=A.a5(b,40,b)
-k=A.bQ("assets/images/blazebot.png",b,b,b,125)
+k=A.bQ("assets/images/blazebotnew.png",b,b,b,125)
 j=A.a5(b,b,5)
 i=A.cN(0,300,0)
 h=c.c
@@ -42958,7 +42958,7 @@ A.a0c(s)},
 $S:0}
 A.apm.prototype={
 $2(a,b){var s=this.a
-if(b===2)return s.uH(!1,"assets/images/blazebot.png","Live Blaze AI\nInsights",u.M)
+if(b===2)return s.uH(!1,"assets/images/blazebotnew.png","Live Blaze AI\nInsights",u.M)
 else return s.uH(!0,"assets/images/why_blaze_"+(b+1)+".svg","One App. All-In-One Journey",u.a)},
 $S:380}
 A.apr.prototype={
