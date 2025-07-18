@@ -42402,8 +42402,8 @@ p=A.x(c,A.a7("AI That knows how you invest".toUpperCase(),c,c,c,A.cq().$4$color$
 o=A.a3(c,5,c)
 n=A.x(c,A.a7("Trade smarter, learn faster, and grow your playlist, all with a personalized AI copilot guiding you every step of the way.",c,c,c,A.aI(c,c,B.f,c,c,c,c,c,c,c,c,15,c,c,B.p,c,c,!0,c,c,c,c,c,c,c,c),B.Y,c),B.e,c,c,c,c,c,c,new A.U(20,0,20,0),c,c,c,c)
 m=A.a3(c,40,c)
-l=A.bC("assets/chatbot_updated_2.png",c,c,50,50)
-k=A.a3(c,c,5)
+l=A.bC("assets/chatbot_updated_3.png",c,c,50,50)
+k=A.a3(c,c,10)
 j=A.cM(0,300,0)
 i=d.c
 i.toString
@@ -42831,7 +42831,7 @@ A.Jd(s)},
 $S:0}
 A.ap7.prototype={
 $2(a,b){var s=this.a
-if(b===2)return s.uD(!0,"assets/why_blaze_1.svg","Live Blaze AI\nInsights",u.M)
+if(b===2)return s.uD(!1,"assets/chatbot_updated_3.png","Live Blaze AI\nInsights",u.M)
 else return s.uD(!0,"assets/why_blaze_"+(b+1)+".svg","One App. All-In-One Journey",u.a)},
 $S:296}
 A.apc.prototype={
