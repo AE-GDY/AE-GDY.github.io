@@ -42402,8 +42402,8 @@ p=A.x(c,A.a7("AI That knows how you invest".toUpperCase(),c,c,c,A.cq().$4$color$
 o=A.a3(c,5,c)
 n=A.x(c,A.a7("Trade smarter, learn faster, and grow your playlist, all with a personalized AI copilot guiding you every step of the way.",c,c,c,A.aI(c,c,B.f,c,c,c,c,c,c,c,c,15,c,c,B.p,c,c,!0,c,c,c,c,c,c,c,c),B.Y,c),B.e,c,c,c,c,c,c,new A.U(20,0,20,0),c,c,c,c)
 m=A.a3(c,40,c)
-l=A.bC("assets/chatbot_updated_3.png",c,c,50,50)
-k=A.a3(c,c,10)
+l=A.bC("assets/chatbot_updated_4.png",c,c,70,70)
+k=A.a3(c,c,15)
 j=A.cM(0,300,0)
 i=d.c
 i.toString
