@@ -39631,7 +39631,7 @@ if($.aFk){s=$.aV()
 r=A.ba(20)
 q=A.r(a,d,c).w
 p=A.r(a,d,c).w.a.a>=800?0.5:1
-r=A.ayW(s,A.u(d,A.bi(A.b([new A.dZ(B.zo,d,d,A.kP(d,d,A.eM(B.jg,B.f,d,d,d),d,d,new A.atC(a),d,d,d),d),A.eM(B.fM,B.f,d,80,d),A.u(d,A.a0("You're on the waitlist".toUpperCase(),d,d,d,A.ca().$4$color$fontSize$fontWeight$height(B.f,A.r(a,d,c).w.a.a*0.038+24,B.A,1),B.X,d),B.e,d,d,d,d,d,d,new A.R(0,20,0,40),d,d,d,d)],t.p),B.o,B.a3,B.ey),B.e,d,d,d,d,d,d,d,d,d,d,q.a.a*p),new A.c3(r,B.v))
+r=A.ayW(s,A.u(d,A.bi(A.b([new A.dZ(B.zo,d,d,A.kP(d,d,A.eM(B.jg,B.f,d,d,d),d,d,new A.atC(a),d,d,d),d),A.eM(B.fM,B.f,d,80,d),A.u(d,A.a0("You're on the waitlist".toUpperCase(),d,d,d,A.ca().$4$color$fontSize$fontWeight$height(B.f,A.r(a,d,c).w.a.a*0.038+24,B.A,1),B.X,d),B.e,d,d,d,d,d,d,new A.R(10,20,10,40),d,d,d,d)],t.p),B.o,B.a3,B.ey),B.e,d,d,d,d,d,d,d,d,d,d,q.a.a*p),new A.c3(r,B.v))
 c=r}else{s=$.aV()
 r=A.ba(20)
 q=A.r(a,d,c).w
