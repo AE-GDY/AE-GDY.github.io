@@ -40481,7 +40481,7 @@ A.H0(s)},
 $S:0}
 A.akj.prototype={
 $1(a){var s
-if(a.gAi()>0.3){s=this.a
+if(a.gAi()>0.9){s=this.a
 s.L(new A.aki(s))
 A.cH("Logos widget is visible")}},
 $S:79}
