@@ -40035,7 +40035,7 @@ h=i?$.cs():B.f
 g=A.ba(15)
 f=A.jg(c,c,c,new A.bg(new A.al2(),t.l),c,c,c,c,c,c,c,c,c,c,c,c,c,c,new A.bA(new A.c3(A.ba(15),B.v),t._o),c,c,c,c,c,c)
 e=t.p
-return A.u(c,A.u(c,A.bi(A.b([new A.qE(new A.al3(d),p,new A.dg("top-visibility-key",t.kK)),o,n,m,A.bo(A.b([l,k,A.eO(A.rf(A.bk(A.a0("Join the waitlist",c,c,c,A.aC(c,c,i?B.f:$.cs(),c,c,c,c,c,c,c,c,14,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c),new A.al4(d),f),c,B.bQ,new A.aW(h,c,c,g,c,c,B.x),j,c,40,s.a.a*0.45),B.aI,c,new A.al5(d),new A.al6(d),c)],e),B.ah,B.a3,B.n)],e),B.o,B.r,B.n),B.e,c,c,c,c,c,c,new A.S(10,20,10,0),c,c,c,c),B.e,c,c,new A.aW(c,c,c,c,c,new A.h9(B.cp,B.co,B.aW,r,q,c),B.x),c,c,c,c,c,c,c,b.a.a)},
+return A.u(c,A.u(c,A.bi(A.b([new A.qE(new A.al3(d),p,new A.dg("top-visibility-key-mobile",t.kK)),o,n,m,A.bo(A.b([l,k,A.eO(A.rf(A.bk(A.a0("Join the waitlist",c,c,c,A.aC(c,c,i?B.f:$.cs(),c,c,c,c,c,c,c,c,14,c,c,B.A,c,c,!0,c,c,c,c,c,c,c,c),c,c),new A.al4(d),f),c,B.bQ,new A.aW(h,c,c,g,c,c,B.x),j,c,40,s.a.a*0.45),B.aI,c,new A.al5(d),new A.al6(d),c)],e),B.ah,B.a3,B.n)],e),B.o,B.r,B.n),B.e,c,c,c,c,c,c,new A.S(10,20,10,0),c,c,c,c),B.e,c,c,new A.aW(c,c,c,c,c,new A.h9(B.cp,B.co,B.aW,r,q,c),B.x),c,c,c,c,c,c,c,b.a.a)},
 anN(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=c.c
 a.toString
 s=t.w
@@ -40074,7 +40074,7 @@ r=A.r(r,o,s).w
 q=p.c
 q.toString
 s=A.r(q,o,s).w
-return A.u(o,A.bi(A.b([A.u(o,A.a0(a,o,o,o,A.ca().$4$color$fontSize$fontWeight$height($.aV(),s.a.a*0.038+18,B.A,1),B.X,o),B.e,o,o,o,o,o,o,new A.S(0,0,0,10),o,o,o,r.a.a*0.95),p.u0(b,B.m,$.aV()),A.u(o,A.bs(c,o,o,300,o),B.e,o,o,o,o,o,o,new A.S(0,20,0,20),o,o,o,o)],t.p),B.o,B.r,B.n),B.e,o,o,o,o,o,o,new A.S(0,20,0,0),o,o,o,n.a.a)},
+return A.u(o,A.bi(A.b([A.u(o,A.a0(a,o,o,o,A.ca().$4$color$fontSize$fontWeight$height($.aV(),s.a.a*0.038+16,B.A,1),B.X,o),B.e,o,o,o,o,o,o,new A.S(0,0,0,10),o,o,o,r.a.a*0.95),p.u0(b,B.m,$.aV()),A.u(o,A.bs(c,o,o,300,o),B.e,o,o,o,o,o,o,new A.S(0,20,0,20),o,o,o,o)],t.p),B.o,B.r,B.n),B.e,o,o,o,o,o,o,new A.S(0,20,0,0),o,o,o,n.a.a)},
 aie(){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=$.au0(),g=t.p
 h=A.u(i,A.u(i,A.bi(A.b([j.y8("TAILORED PLAYLISTS. POWERED BY AI",j.z,"assets/playlist_mockup.png"),j.y8("TALK TO BLAZE,\nTWEAK YOUR\nSTRATEGY,REPEAT.",j.Q,"assets/chatbot_mockup_1.png"),j.y8("LEARN YOUR WAY. BLAZE YOUR TRAIL.",j.as,"assets/learn_mockup_1.png"),j.y8("INVEST IN MINUTES. ALWAYS STAY ON TRACK.",j.at,"assets/execution_mockup_1.png")],g),B.o,B.r,B.n),B.e,i,i,i,i,i,i,new A.S(0,40,0,0),i,i,i,i),B.e,i,i,new A.aW(B.f,i,i,new A.bO(new A.am(50,50),new A.am(50,50),new A.am(50,50),new A.am(50,50)),i,i,B.x),i,i,h,new A.S(10,0,10,0),i,i,i,i)
 s=A.b([$.cs(),$.aV()],t.t_)
@@ -40173,7 +40173,7 @@ n=A.u(k,A.a0("WHY INVEST ON BLAZE",k,k,k,A.ca().$4$color$fontSize$fontWeight$hei
 m=l.c
 m.toString
 s=A.r(m,k,s).w
-return A.u(k,A.u(k,A.bi(A.b([p,o,n,new A.qE(new A.akj(l),A.u(k,A.avh(new A.akk(l),3,B.dD,B.bA,!1),B.e,k,k,k,k,350,k,new A.S(20,0,0,0),k,k,k,s.a.a),new A.dg("logos-visibility-key",t.kK))],t.p),B.o,B.a3,B.n),B.e,k,k,k,k,k,k,new A.S(0,0,0,50),k,k,k,k),B.e,k,k,new A.aW(k,k,k,k,k,new A.h9(B.cp,B.co,B.aW,r,q,k),B.x),k,k,j,k,k,k,k,i.a.a)},
+return A.u(k,A.u(k,A.bi(A.b([p,o,n,new A.qE(new A.akj(l),A.u(k,A.avh(new A.akk(l),3,B.dD,B.bA,!1),B.e,k,k,k,k,350,k,new A.S(20,0,0,0),k,k,k,s.a.a),new A.dg("logos-visibility-key-mobile",t.kK))],t.p),B.o,B.a3,B.n),B.e,k,k,k,k,k,k,new A.S(0,0,0,50),k,k,k,k),B.e,k,k,new A.aW(k,k,k,k,k,new A.h9(B.cp,B.co,B.aW,r,q,k),B.x),k,k,j,k,k,k,k,i.a.a)},
 aeG(){var s,r,q,p,o,n,m,l=this,k=null,j=$.atW(),i=l.c
 i.toString
 s=t.w
@@ -40481,7 +40481,7 @@ A.H0(s)},
 $S:0}
 A.akj.prototype={
 $1(a){var s
-if(a.gAi()>0.05){s=this.a
+if(a.gAi()>0.3){s=this.a
 s.L(new A.aki(s))
 A.cH("Logos widget is visible")}},
 $S:79}
