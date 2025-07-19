@@ -17,37 +17,28 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
   <link rel="icon" type="image/x-icon" href="favicon.ico"/>
 
-
   <title>Blaze</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2334594005";
+    // Updated as per Flutter's recommendation
+    const serviceWorkerVersion = '"2353659207"';
   </script>
-  <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
-  <script src="flutter_bootstrap.js" async></script>
-  <script>
-    let useHtml = true;
+<script src="flutter_bootstrap.js" async></script>
+<script>
+  let useHtml = true;
 
-    window.addEventListener('load', function(ev) {
-    _flutter.loader.loadEntrypoint({
+  window.addEventListener('load', function(ev) {
+    _flutter.loader.load({
       serviceWorker: {
         serviceWorkerVersion: serviceWorkerVersion,
       },
-      onEntrypointLoaded: function(engineInitializer) {
-        let config = {
-          renderer: useHtml ? "html" : "canvaskit",
-        };
-        engineInitializer.initializeEngine(config).then(function(appRunner) {
-          appRunner.runApp();
-        });
-      }
+      renderer: useHtml ? "html" : "canvaskit",
     });
   });
-  </script>
+</script>
 </body>
 </html>
